@@ -1,0 +1,6 @@
+.list-container {
+  width: 100px;
+  justify-content: space-between;
+  display: flex;
+  list-style-type: none;
+}
